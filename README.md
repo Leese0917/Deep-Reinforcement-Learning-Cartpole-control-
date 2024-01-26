@@ -5,8 +5,6 @@
 ## Summary
 This project explores various deep reinforcement learning methods applied to the classic control problem of CartPole. The study compares different variants of Deep Q-Learning (DQN), including DQN, Double DQN, Dueling DQN, and CNN-based DQN, as well as Proximal Policy Optimization (PPO).
 
-Key components of the project include:
-
 ### Method
 We utilizes DQN methods, which optimize the expected future rewards for a state-action pair, and PPO, which optimizes policy using an Actor-Critic architecture. The study involves variations of DQN, such as Double DQN, Dueling DQN, and CNN-based DQN.
 
@@ -27,4 +25,7 @@ After tuning, PPO and DDQN achieve perfect scores, outperforming other methods. 
 
 ### Conclusion
 We successfully develops a coding pipeline for studying fundamental RL algorithms on the CartPole problem. PPO and DDQN demonstrate superior performance, while CNN-DQN methods require further exploration. The report suggests possible improvements for future work, including addressing issues with CNN-DQN and refining termination criteria for training.
+
+### Reference
+- [CartPole Simulation Open Source Gym](https://www.gymlibrary.dev/environments/classic_control/cart_pole/)
 
