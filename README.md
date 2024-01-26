@@ -5,5 +5,5 @@ This project explores various deep reinforcement learning methods applied to the
 
 Key components of the project include:
 
-1. ''Method:'' 
+1. 'Method:'
 2.  
