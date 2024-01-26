@@ -1,6 +1,6 @@
 # CS 4644 Fall 2023 - Comparing Deep Reinforcement Learning Techniques on Cartpole Control
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.gymlibrary.dev/_images/cart_pole.gif" width="40" height="40" />
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.gymlibrary.dev/_images/cart_pole.gif](https://www.gymlibrary.dev/_images/cart_pole.gif)" width="40" height="40" />
 
 ## Summary
 This project explores various deep reinforcement learning methods applied to the classic control problem of CartPole. The study compares different variants of Deep Q-Learning (DQN), including DQN, Double DQN, Dueling DQN, and CNN-based DQN, as well as Proximal Policy Optimization (PPO).
