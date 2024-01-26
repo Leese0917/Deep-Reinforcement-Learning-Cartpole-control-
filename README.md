@@ -5,7 +5,7 @@ This project explores various deep reinforcement learning methods applied to the
 
 Key components of the project include:
 
-###**1. Method:** 
+### Method
 We utilizes DQN methods, which optimize the expected future rewards for a state-action pair, and PPO, which optimizes policy using an Actor-Critic architecture. The study involves variations of DQN, such as Double DQN, Dueling DQN, and CNN-based DQN.
 
 **2. Dateset:** The dataset is generated from the experiences of the agent interacting with the CartPole environment. The state space includes parameters like cart position, cart velocity, pole angle, and pole angular velocity.
